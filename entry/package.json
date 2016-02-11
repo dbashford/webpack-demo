@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "build": "node ./node_modules/webpack/bin/webpack.js --verbose --colors --display-error-details --config ./webpack.config.js"
+  },
+  "devDependencies": {
+    "webpack": "1.12.13"
+  }
+}
